@@ -24,17 +24,17 @@ use frontend\widgets\Alert;
     <title><?= Html::encode($this->title) ?></title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width">
-    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="icon" type="image/png" href="/img/favicon.png">
 
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/flexslider.css">
-    <link rel="stylesheet" href="css/chosen.css">
-    <link rel="stylesheet" href="css/slider.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/flexslider.css">
+    <link rel="stylesheet" href="/css/chosen.css">
+    <link rel="stylesheet" href="/css/slider.css">
     <!--<link rel="stylesheet" href="css/bootstrap-theme.min.css">-->
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
 
-    <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+    <script src="/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 </head>
 <body>
 <?php $this->beginBody() ?>
@@ -76,7 +76,7 @@ use frontend\widgets\Alert;
                         <li>
                             <div class="nav-bar-item">
                                 <figure>
-                                    <img src="img/product01.jpg" alt=""/>
+                                    <img src="/img/product01.jpg" alt=""/>
                                 </figure>
                                 <button class="btn btn-default custom-button no-border"><i class="glyphicon glyphicon-remove"></i></button>
                                 <div class="text">
@@ -90,7 +90,7 @@ use frontend\widgets\Alert;
                         <li>
                             <div class="nav-bar-item">
                                 <figure>
-                                    <img src="img/product02.jpg" alt=""/>
+                                    <img src="/img/product02.jpg" alt=""/>
                                 </figure>
                                 <button class="btn btn-default custom-button no-border"><i class="glyphicon glyphicon-remove"></i></button>
                                 <div class="text">
@@ -442,17 +442,17 @@ use frontend\widgets\Alert;
 </footer>
 <div id="scripts">
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
+    <script>window.jQuery || document.write('<script src="/js/vendor/jquery-1.10.1.min.js"><\/script>')</script>
 
-    <script src="js/vendor/jquery.flexslider-min.js"></script>
-    <script src="js/vendor/jquery.jcarousel.min.js"></script>
-    <script src="js/vendor/jquery.placeholder.min.js"></script>
-    <script src="js/vendor/tinynav.min.js"></script>
-    <script src="js/vendor/jquery.raty.min.js"></script>
-    <script src="js/vendor/chosen.jquery.min.js"></script>
-    <script src="js/vendor/bootstrap-slider.js"></script>
-    <script src="js/vendor/bootstrap.min.js"></script>
-    <script src="js/main.js"></script>
+    <script src="/js/vendor/jquery.flexslider-min.js"></script>
+    <script src="/js/vendor/jquery.jcarousel.min.js"></script>
+    <script src="/js/vendor/jquery.placeholder.min.js"></script>
+    <script src="/js/vendor/tinynav.min.js"></script>
+    <script src="/js/vendor/jquery.raty.min.js"></script>
+    <script src="/js/vendor/chosen.jquery.min.js"></script>
+    <script src="/js/vendor/bootstrap-slider.js"></script>
+    <script src="/js/vendor/bootstrap.min.js"></script>
+    <script src="/js/main.js"></script>
 </div>
 <?php $this->endBody() ?>
 </body>

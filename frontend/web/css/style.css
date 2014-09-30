@@ -489,7 +489,7 @@ footer {
   height: 13px;
   display: inline-block;
   vertical-align: middle;
-  background: url('../img/icon-flag.png') no-repeat;
+  background: url('/img/icon-flag.png') no-repeat;
   margin-bottom: 2px;
 }
 .flag.flag-gb {
@@ -746,7 +746,7 @@ footer {
   box-shadow: none;
 }
 .footer-form textarea {
-  background-image: url('../img/pencil.png');
+  background-image: url('/img/pencil.png');
   background-position: 10px 10px;
   background-repeat: no-repeat;
   padding-left: 37px;
@@ -868,7 +868,7 @@ footer {
   -moz-background-clip: padding;
   border-radius: 3px;
   background-clip: padding-box;
-  background: #2a2a2a url('../img/scroll-top.png') center center no-repeat;
+  background: #2a2a2a url('/img/scroll-top.png') center center no-repeat;
   text-indent: -9999px;
   text-transform: capitalize;
   -webkit-transition: all 0.4s ease-in-out;
@@ -900,7 +900,7 @@ footer {
   text-transform: capitalize;
   margin-left: 10px;
   display: inline-block;
-  background-image: url('../img/social-icon.png');
+  background-image: url('/img/social-icon.png');
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
@@ -1107,13 +1107,13 @@ footer {
   background-repeat: no-repeat;
 }
 .blog-article .left-article .info-separator .separator-icon.photo {
-  background-image: url('../img/separator-photo.png');
+  background-image: url('/img/separator-photo.png');
 }
 .blog-article .left-article .info-separator .separator-icon.write {
-  background-image: url('../img/separator-write.png');
+  background-image: url('/img/separator-write.png');
 }
 .blog-article .left-article .info-separator .separator-icon.video {
-  background-image: url('../img/separator-video.png');
+  background-image: url('/img/separator-video.png');
 }
 .blog-article .right-article {
   margin-left: 190px;
@@ -1210,13 +1210,13 @@ footer {
   background-repeat: no-repeat;
 }
 .blog-article .text .info-separator .separator-icon.photo {
-  background-image: url('../img/separator-photo.png');
+  background-image: url('/img/separator-photo.png');
 }
 .blog-article .text .info-separator .separator-icon.write {
-  background-image: url('../img/separator-write.png');
+  background-image: url('/img/separator-write.png');
 }
 .blog-article .text .info-separator .separator-icon.video {
-  background-image: url('../img/separator-video.png');
+  background-image: url('/img/separator-video.png');
 }
 .blog-article .text .right {
   margin-left: 190px;
@@ -1779,7 +1779,7 @@ footer {
 }
 .accordion.accordion-second .panel-heading .panel-title > a:after {
   content: "";
-  background-image: url('../img/chvron-up.png');
+  background-image: url('/img/chvron-up.png');
   width: 30px;
   height: 30px;
   display: inline-block;
@@ -1789,7 +1789,7 @@ footer {
 }
 .accordion.accordion-second .panel-heading .panel-title > a.collapsed:after {
   content: "";
-  background-image: url('../img/chvron-down.png');
+  background-image: url('/img/chvron-down.png');
 }
 .accordion .panel {
   background-color: transparent;
@@ -2509,7 +2509,7 @@ footer {
 }
 .chosen-container.chosen-container-single .chosen-single div b {
   background-position: 6px 4px;
-  background-image: url('../img/select-icon.png');
+  background-image: url('/img/select-icon.png');
   background-position: center center;
   background-repeat: no-repeat;
 }
@@ -2776,7 +2776,7 @@ footer {
 }
 .team-member figure .social-button {
   background-color: transparent;
-  background-image: url("../img/social-icon-white.png");
+  background-image: url("/img/social-icon-white.png");
   display: inline-block;
   height: 40px;
   margin: 0 10px;
@@ -3680,7 +3680,7 @@ footer {
 .checkout-form .panel-heading .panel-title > a:after {
   position: absolute;
   content: "";
-  background-image: url('../img/chvron-up.png');
+  background-image: url('/img/chvron-up.png');
   width: 30px;
   height: 30px;
   display: inline-block;
@@ -3708,7 +3708,7 @@ footer {
 }
 .checkout-form .panel-heading .panel-title > a.collapsed:after {
   content: "";
-  background-image: url('../img/chvron-down.png');
+  background-image: url('/img/chvron-down.png');
 }
 .checkout-form .panel-default > .panel-heading {
   -webkit-border-radius: 0;
@@ -3779,7 +3779,7 @@ footer {
 .checkout-form .custom-checkbox input[type=checkbox]:checked + label:before {
   content: "";
   background-color: transparent;
-  background-image: url("../img/tick.png");
+  background-image: url("/img/tick.png");
   background-position: center center;
   background-repeat: no-repeat;
 }
@@ -3961,7 +3961,7 @@ footer {
   display: inline-block;
   height: 165px;
   padding-left: 37px !important;
-  background-image: url('../img/pencil.png');
+  background-image: url('/img/pencil.png');
   background-position: 10px 10px;
   background-repeat: no-repeat;
   border-width: 2px;
@@ -4265,7 +4265,7 @@ footer {
   bottom: -57px;
   height: 57px;
   width: 97px;
-  background-image: url('../img/not-found-form.png');
+  background-image: url('/img/not-found-form.png');
   background-position: center center;
   background-repeat: no-repeat;
 }

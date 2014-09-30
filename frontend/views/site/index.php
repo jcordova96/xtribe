@@ -15,7 +15,7 @@ $this->title = 'Xtribe';
                         <button class="prev"><i class="glyphicon glyphicon-chevron-right"></i></button>
                     </div>
                     <ul class="slides">
-                        <li style="background-image: url('img/homepage-slider01.jpg');">
+                        <li style="background-image: url('/img/homepage-slider01.jpg');">
                             <div class="slide-content all-white">
                                 <div class="inner">
                                     <h1>What's New</h1>
@@ -28,7 +28,7 @@ $this->title = 'Xtribe';
                                 </div>
                             </div>
                         </li>
-                        <li style="background-image: url('img/homepage-slider02.jpg');">
+                        <li style="background-image: url('/img/homepage-slider02.jpg');">
                             <div class="slide-content">
                                 <div class="inner">
                                     <h1>All about White.</h1>
@@ -45,7 +45,7 @@ $this->title = 'Xtribe';
                                 </div>
                             </div>
                         </li>
-                        <li style="background-image: url('img/homepage-slider03.jpg');">
+                        <li style="background-image: url('/img/homepage-slider03.jpg');">
                             <div class="slide-content">
                                 <div class="inner">
                                     <h1 class='alternate'>Summer in the sity.</h1>
@@ -75,7 +75,7 @@ $this->title = 'Xtribe';
     <div class="presentation-boxes">
         <div class="col-sm-4">
             <figure class="big-image center-content">
-                <img src="img/homepage-categ01.jpg" alt=""/>
+                <img src="/img/homepage-categ01.jpg" alt=""/>
                 <figcaption>
                     <div class="content">
                         <h2><a href="category-list.html">New Men Collection</a></h2>
@@ -86,7 +86,7 @@ $this->title = 'Xtribe';
         </div>
         <div class="col-sm-4">
             <figure class="big-image center-content">
-                <img src="img/homepage-categ02.jpg" alt=""/>
+                <img src="/img/homepage-categ02.jpg" alt=""/>
                 <figcaption>
                     <div class="content">
                         <h2><a href="category-grid.html">Our new Arrivals</a></h2>
@@ -98,7 +98,7 @@ $this->title = 'Xtribe';
         <div class="col-sm-4">
             <div class="combined-boxes">
                 <figure class="big-image center-content">
-                    <img src="img/homepage-categ03.jpg" alt=""/>
+                    <img src="/img/homepage-categ03.jpg" alt=""/>
                     <figcaption>
                         <div class="content">
                             <h3><a href="category-list.html">The Half price Summer</a></h3>
@@ -108,7 +108,7 @@ $this->title = 'Xtribe';
                     </figcaption>
                 </figure>
                 <figure class="big-image center-content">
-                    <img src="img/homepage-categ04.jpg" alt=""/>
+                    <img src="/img/homepage-categ04.jpg" alt=""/>
                     <figcaption>
                         <div class="content">
                             <h2><a href="category-grid.html">Girls</a></h2>
@@ -139,7 +139,7 @@ $this->title = 'Xtribe';
                     <div class="row">
                         <article class="category-article category-grid col-sm-3">
                             <figure>
-                                <img src="img/product01.jpg" alt=""/>
+                                <img src="/img/product01.jpg" alt=""/>
 
                                 <div class="figure-overlay">
                                     <div class="rating-line">
@@ -175,7 +175,7 @@ $this->title = 'Xtribe';
                         <article class="category-article category-grid col-sm-3">
                             <figure>
                                 <div class="corner-sign red">Sale</div>
-                                <img src="img/product02.jpg" alt=""/>
+                                <img src="/img/product02.jpg" alt=""/>
 
                                 <div class="figure-overlay">
                                     <div class="rating-line">
@@ -207,7 +207,7 @@ $this->title = 'Xtribe';
                         <article class="category-article category-grid col-sm-3">
                             <figure>
                                 <div class="corner-sign">New</div>
-                                <img src="img/product03.jpg" alt=""/>
+                                <img src="/img/product03.jpg" alt=""/>
 
                                 <div class="figure-overlay">
                                     <div class="rating-line">
@@ -242,7 +242,7 @@ $this->title = 'Xtribe';
                         </article>
                         <article class="category-article category-grid col-sm-3">
                             <figure>
-                                <img src="img/product03.jpg" alt=""/>
+                                <img src="/img/product03.jpg" alt=""/>
 
                                 <div class="figure-overlay">
                                     <div class="rating-line">
@@ -281,7 +281,7 @@ $this->title = 'Xtribe';
                     <div class="row">
                         <article class="category-article category-grid col-sm-3">
                             <figure>
-                                <img src="img/product01.jpg" alt=""/>
+                                <img src="/img/product01.jpg" alt=""/>
 
                                 <div class="figure-overlay">
                                     <div class="rating-line">
@@ -316,7 +316,7 @@ $this->title = 'Xtribe';
                         </article>
                         <article class="category-article category-grid col-sm-3">
                             <figure>
-                                <img src="img/product02.jpg" alt=""/>
+                                <img src="/img/product02.jpg" alt=""/>
 
                                 <div class="figure-overlay">
                                     <div class="rating-line">
@@ -347,7 +347,7 @@ $this->title = 'Xtribe';
                         </article>
                         <article class="category-article category-grid col-sm-3">
                             <figure>
-                                <img src="img/product03.jpg" alt=""/>
+                                <img src="/img/product03.jpg" alt=""/>
 
                                 <div class="figure-overlay">
                                     <div class="rating-line">
@@ -382,7 +382,7 @@ $this->title = 'Xtribe';
                         </article>
                         <article class="category-article category-grid col-sm-3">
                             <figure>
-                                <img src="img/product03.jpg" alt=""/>
+                                <img src="/img/product03.jpg" alt=""/>
 
                                 <div class="figure-overlay">
                                     <div class="rating-line">
@@ -462,7 +462,7 @@ $this->title = 'Xtribe';
                         <li>
                             <article class="row">
                                 <figure>
-                                    <img src="img/blog-example.jpg" alt=""/>
+                                    <img src="/img/blog-example.jpg" alt=""/>
                                 </figure>
                                 <div class="text">
                                     <h2>Pellentesque vehicula urna purus</h2>
@@ -477,7 +477,7 @@ $this->title = 'Xtribe';
                         <li>
                             <article class="row">
                                 <figure>
-                                    <img src="img/blog-example.jpg" alt=""/>
+                                    <img src="/img/blog-example.jpg" alt=""/>
                                 </figure>
                                 <div class="text">
                                     <h2>Pellentesque vehicula urna purus</h2>
@@ -521,7 +521,7 @@ $this->title = 'Xtribe';
                                         </div>
                                         <div class="avatar-line">
                                             <figure>
-                                                <img src="img/avatar01.jpg" alt="">
+                                                <img src="/img/avatar01.jpg" alt="">
                                             </figure>
                                             <div class="text">
                                                 <a href="#" class="name">Antuan Doe</a>
@@ -542,7 +542,7 @@ $this->title = 'Xtribe';
                                         </div>
                                         <div class="avatar-line">
                                             <figure>
-                                                <img src="img/avatar02.jpg" alt="">
+                                                <img src="/img/avatar02.jpg" alt="">
                                             </figure>
                                             <div class="text">
                                                 <a href="#" class="name">Antuan Doe</a>
@@ -567,7 +567,7 @@ $this->title = 'Xtribe';
                                         </div>
                                         <div class="avatar-line">
                                             <figure>
-                                                <img src="img/avatar01.jpg" alt="">
+                                                <img src="/img/avatar01.jpg" alt="">
                                             </figure>
                                             <div class="text">
                                                 <a href="#" class="name">Antuan Doe</a>
@@ -588,7 +588,7 @@ $this->title = 'Xtribe';
                                         </div>
                                         <div class="avatar-line">
                                             <figure>
-                                                <img src="img/avatar02.jpg" alt="">
+                                                <img src="/img/avatar02.jpg" alt="">
                                             </figure>
                                             <div class="text">
                                                 <a href="#" class="name">Antuan Doe</a>
@@ -615,7 +615,7 @@ $this->title = 'Xtribe';
     </div>
     <article class="category-article category-grid col-sm-4">
         <figure>
-            <img src="img/product01.jpg" alt=""/>
+            <img src="/img/product01.jpg" alt=""/>
 
             <div class="figure-overlay">
                 <div class="rating-line">
@@ -650,7 +650,7 @@ $this->title = 'Xtribe';
     </article>
     <article class="category-article category-grid col-sm-4">
         <figure>
-            <img src="img/product02.jpg" alt=""/>
+            <img src="/img/product02.jpg" alt=""/>
 
             <div class="figure-overlay">
                 <div class="rating-line">
@@ -682,7 +682,7 @@ $this->title = 'Xtribe';
     <article class="category-article category-grid col-sm-4">
         <figure>
             <div class="corner-sign red">Sale</div>
-            <img src="img/product03.jpg" alt=""/>
+            <img src="/img/product03.jpg" alt=""/>
 
             <div class="figure-overlay">
                 <div class="rating-line">
@@ -753,7 +753,7 @@ $this->title = 'Xtribe';
                     <ul class="slides">
                         <li>
                             <figure>
-                                <img src="img/team-member01.jpg" alt=""/>
+                                <img src="/img/team-member01.jpg" alt=""/>
                             </figure>
                             <div class="text">
                                 <h3>Anna Retallick</h3>
@@ -769,7 +769,7 @@ $this->title = 'Xtribe';
                         </li>
                         <li>
                             <figure>
-                                <img src="img/team-member01.jpg" alt=""/>
+                                <img src="/img/team-member01.jpg" alt=""/>
                             </figure>
                             <div class="text">
                                 <h3>Anna Retallick</h3>
@@ -805,22 +805,22 @@ $this->title = 'Xtribe';
                     <div class="row">
                         <div class="col-sm-3">
                             <figure>
-                                <img src="img/logo-placeholder.png" alt=""/>
+                                <img src="/img/logo-placeholder.png" alt=""/>
                             </figure>
                         </div>
                         <div class="col-sm-3">
                             <figure>
-                                <img src="img/logo-placeholder.png" alt=""/>
+                                <img src="/img/logo-placeholder.png" alt=""/>
                             </figure>
                         </div>
                         <div class="col-sm-3">
                             <figure>
-                                <img src="img/logo-placeholder.png" alt=""/>
+                                <img src="/img/logo-placeholder.png" alt=""/>
                             </figure>
                         </div>
                         <div class="col-sm-3">
                             <figure>
-                                <img src="img/logo-placeholder.png" alt=""/>
+                                <img src="/img/logo-placeholder.png" alt=""/>
                             </figure>
                         </div>
                     </div>
@@ -829,22 +829,22 @@ $this->title = 'Xtribe';
                     <div class="row">
                         <div class="col-sm-3">
                             <figure>
-                                <img src="img/logo-placeholder.png" alt=""/>
+                                <img src="/img/logo-placeholder.png" alt=""/>
                             </figure>
                         </div>
                         <div class="col-sm-3">
                             <figure>
-                                <img src="img/logo-placeholder.png" alt=""/>
+                                <img src="/img/logo-placeholder.png" alt=""/>
                             </figure>
                         </div>
                         <div class="col-sm-3">
                             <figure>
-                                <img src="img/logo-placeholder.png" alt=""/>
+                                <img src="/img/logo-placeholder.png" alt=""/>
                             </figure>
                         </div>
                         <div class="col-sm-3">
                             <figure>
-                                <img src="img/logo-placeholder.png" alt=""/>
+                                <img src="/img/logo-placeholder.png" alt=""/>
                             </figure>
                         </div>
                     </div>
@@ -871,7 +871,7 @@ $this->title = 'Xtribe';
         <div class="widget-content">
             <div class="item">
                 <div class="user">
-                    <figure><img src="img/twitter-img.png" alt=""/></figure>
+                    <figure><img src="/img/twitter-img.png" alt=""/></figure>
                     <div class="name">
                         <a href="#">Promokit</a>
                         <span class="hash">@marek_mnishek</span>
@@ -891,7 +891,7 @@ $this->title = 'Xtribe';
             </div>
             <div class="item">
                 <div class="user">
-                    <figure><img src="img/twitter-img.png" alt=""/></figure>
+                    <figure><img src="/img/twitter-img.png" alt=""/></figure>
                     <div class="name">
                         <a href="#">Promokit</a>
                         <span class="hash">@marek_mnishek</span>

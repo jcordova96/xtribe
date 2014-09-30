@@ -145,7 +145,7 @@ var VigoShop = {
             }
         });
         jQuery('.stars-white').raty({
-            path : 'img',
+            path : '/img',
             starOff : 'star-off-white.png',
             starOn : 'star-on-white.png',
             half : false,
